@@ -27,6 +27,7 @@ h1 {
    color: white;
    font-family: "Grey Qo", cursive;
    font-weight: 400;
+   text-shadow: 5px 5px 10px gray;
 }
 
 
@@ -254,3 +255,15 @@ button {
    animation: flagWave 3s ease-in-out infinite;
    animation-delay: 1s;
 }
+
+
+         /* FOOTER STYLING */
+
+footer {
+   text-align: right;
+   box-shadow: 5px 5px 10px gray;
+   text-shadow: 5px 5px 10px gray;
+   margin-top: 25px;
+   
+}
+
